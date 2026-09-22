@@ -1,0 +1,7 @@
+# Archivos temporales y compilados de JDeveloper
+.data/
+classes/
+deploy/
+javadoc/
+*.class
+*.log
